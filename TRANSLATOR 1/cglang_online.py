@@ -1,5 +1,6 @@
 #THIS PY PROGRAM TRANSLATOR MODEL IS FOR ONLINE USE ONLY 
 #TO USE ONLINE AND OFFLINE MODELS BOTH CHOOSE THE cglang_on_off.py FILE
+#TO DEPLOY OPENAI API --->setx OPENAI_API_KEY "your_api_key" {better create a new api key for it}
 
 
 import speech_recognition as sr
@@ -91,4 +92,5 @@ while True:
     except sr.UnknownValueError:
         print("Sorry, I didn't catch that. Please try again.")
     except sr.RequestError:
+
         print("Could not connect to the speech service.")
