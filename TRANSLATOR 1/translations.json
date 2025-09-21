@@ -1,0 +1,321 @@
+{
+    "hello": [
+        "राम राम"
+    ],
+    "how are you": [
+        "kaise has"
+    ],
+    "i am fine": [
+        "मैं ठीक हंव"
+    ],
+    "thank you": [
+        "धन्य हवे"
+    ],
+    "i am hungry": [
+        "मं भूख लगिस हे"
+    ],
+    "i need water": [
+        "मं पानी चाही"
+    ],
+    "where are you going": [
+        "तें कइँ जा थस"
+    ],
+    "what are you doing": [
+        "का करत हस"
+    ],
+    "lets go": [
+        "चलन जाबो"
+    ],
+    "go home": [
+        "घर जाबो"
+    ],
+    "good morning": [
+        "राम राम भैया"
+    ],
+    "good night": [
+        "गुड नाईट"
+    ],
+    "sorry": [
+        "माफ कर दे"
+    ],
+    "i don't know": [
+        "मं नइ जानंव"
+    ],
+    "what is your name": [
+        "तें नाव का हे"
+    ],
+    "my name is Madhav": [
+        "मोरो नाव Madhav हे"
+    ],
+    "i am going home": [
+        "मं घर जा रथंव"
+    ],
+    "what do you want": [
+        "तें का चाहथस"
+    ],
+    "what happened": [
+        "का होइस"
+    ],
+    "very good": [
+        "बहुत बढ़िया"
+    ],
+    "yes": [
+        "हां"
+    ],
+    "no": [
+        "नइ"
+    ],
+    "namaste": [
+        "राम राम"
+    ],
+    "aap kaise hain": [
+        "तें कइस हस"
+    ],
+    "main theek hoon": [
+        "मैं ठीक हंव"
+    ],
+    "dhanyavaad": [
+        "धन्य हवे"
+    ],
+    "mujhe bhukh lagi hai": [
+        "मं भूख लगिस हे"
+    ],
+    "mujhe paani chahiye": [
+        "मं पानी चाही"
+    ],
+    "aaj mausam kaisa hai": [
+        "आज मौसम कइस हे"
+    ],
+    "kya kar rahe ho": [
+        "का करत हस"
+    ],
+    "chalo chalte hain": [
+        "चलन जाबो"
+    ],
+    "ghar chalo": [
+        "घर जाबो"
+    ],
+    "shubh prabhat": [
+        "राम राम भैया"
+    ],
+    "kripya": [
+        "कृपा कर"
+    ],
+    "maaf kijiye": [
+        "माफ कर दे"
+    ],
+    "mujhe nahi pata": [
+        "मं नइ जानंव"
+    ],
+    "aapka naam kya hai": [
+        "तें नाव का हे"
+    ],
+    "mera naam ___ hai": [
+        "मोरो नाव ___ हे"
+    ],
+    "main ghar ja raha hoon": [
+        "मं घर जा रथंव"
+    ],
+    "tumhe kya chahiye": [
+        "तें का चाहथस"
+    ],
+    "kya hua": [
+        "का होइस"
+    ],
+    "shubh raatri": [
+        "गुड नाईट"
+    ],
+    "bahut accha": [
+        "बहुत बढ़िया"
+    ],
+    "kaise ho": [
+        "कइस हस"
+    ],
+    "dhyaan rakho": [
+        "धियान रख"
+    ],
+    "tum kahan ho": [
+        "तें कहॉं हस"
+    ],
+    "haan": [
+        "हां"
+    ],
+    "nahin": [
+        "नइ"
+    ],
+    "kaise ho tum": [
+        "कइस हस"
+    ],
+    "main khush hoon": [
+        "मं खुश हंव"
+    ],
+    "mujhe samajh nahi aaya": [
+        "मं समझ नइ पायंव"
+    ],
+    "kya tum aa rahe ho": [
+        "तें आथस का"
+    ],
+    "mujhe madad chahiye": [
+        "मं मदद चाही"
+    ],
+    "mujhe maaf karo": [
+        "मं माफी चाहत हंव"
+    ],
+    "tumhara kaam kaise chal raha hai": [
+        "तें काम कइस चलत हे"
+    ],
+    "main thak gaya hoon": [
+        "मं थक गय हंव"
+    ],
+    "tumhara ghar kahan hai": [
+        "तें घर कहॉं हे"
+    ],
+    "main padhai kar raha hoon": [
+        "मं पढ़ई करत हंव"
+    ],
+    "tumhara dost kaun hai": [
+        "तें दोस्त कऊन हे"
+    ],
+    "mujhe chhutti chahiye": [
+        "मं छुट्टी चाही"
+    ],
+    "main dukhi hoon": [
+        "मं दुखी हंव"
+    ],
+    "kya tumne khana khaya": [
+        "तें खाना खा लिस का"
+    ],
+    "main bazaar ja raha hoon": [
+        "मं बाजार जा रथंव"
+    ],
+    "tumhari tabiyat kaise hai": [
+        "तें तबियत कइस हे"
+    ],
+    "main kaam kar raha hoon": [
+        "मं काम करत हंव"
+    ],
+    "tumhe kaunsa rang pasand hai": [
+        "तें कऊन रंग पसंद करथस"
+    ],
+    "main so raha hoon": [
+        "मं सोवत हंव"
+    ],
+    "tumhe kya pasand hai": [
+        "तें का पसंद करथस"
+    ],
+    "main bahut khush hoon": [
+        "मं बहुत खुश हंव"
+    ],
+    "tumhara beta kaun hai": [
+        "तें बेटा कऊन हे"
+    ],
+    "main ghar par hoon": [
+        "मं घर मं हंव"
+    ],
+    "tum kahan ja rahe ho": [
+        "तें कहॉं जा थस"
+    ],
+    "main dukhit hoon": [
+        "मं दुखी हंव"
+    ],
+    "what is this": [
+        "ये का हे",
+        ""
+    ],
+    "what r u doing": [
+        "तें का करत हस",
+        ""
+    ],
+    "what is the day today": [
+        "आज कौन दिन हे",
+        ""
+    ],
+    "what is in the box": [
+        "डब्बा में का हे",
+        ""
+    ],
+    "how was the day today": [
+        "आज के दिन कइसन रहिस",
+        ""
+    ],
+    "this is a table": [
+        "ये एक मेज है।",
+        ""
+    ],
+    "pizza painting": [
+        "पिज्जा पेंटिंग",
+        ""
+    ],
+    "this is my": [
+        "ये मोर हवे",
+        ""
+    ],
+    "real life": [
+        "असल जिनगी",
+        ""
+    ],
+    "vah to": [
+        "वह तो",
+        ""
+    ],
+    "mobile is harmful for us": [
+        "मोबाइल हमर बर हानिकारक हे।",
+        ""
+    ],
+    "mobile is harmful": [
+        "मोबाइल हानिकारक हे।",
+        ""
+    ],
+    "mobile is harmful for": [
+        "मोबाइल हानिकारक हे",
+        ""
+    ],
+    "how r u": [
+        "तंहां कस होवव",
+        ""
+    ],
+    "how": [
+        "कैसे",
+        ""
+    ],
+    "this is a watch": [
+        "ए हे घड़ी।",
+        ""
+    ],
+    "today is a": [
+        "आज एक हवे",
+        ""
+    ],
+    "where were you": [
+        "तें कहां रहिस?",
+        ""
+    ],
+    "there is a very cloudy": [
+        "बड़ घना बादल हे।",
+        ""
+    ],
+    "hi how are you doing": [
+        "नमस्कार, तुम कैसे हाव?",
+        ""
+    ],
+    "today": [
+        "आज",
+        ""
+    ],
+    "you are hungry": [
+        "तंय भूख लगे हवस।",
+        ""
+    ],
+    "i am very happy": [
+        "मैं बहुते खुस हंव।",
+        ""
+    ],
+    "usne bhi sab lete hain": [
+        "उहुन भी सब लेथें हवंय।",
+        ""
+    ],
+    "earbuds are easy to": [
+        "ईयरबड्स आसान हैं।",
+        ""
+    ]
+}
