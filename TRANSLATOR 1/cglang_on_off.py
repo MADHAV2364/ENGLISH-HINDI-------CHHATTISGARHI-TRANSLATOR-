@@ -1,5 +1,7 @@
 #THIS PY PROGRAM TRANSLATOR MODEL IS FOR ONLINE AND OFFLINE BOTH 
 #TO USE ONLY ONLINE MODEL CHOOSE THE cglang_online.py FILE
+#TO DEPLOY OPENAI API --->setx OPENAI_API_KEY "your_api_key" {better create a new api key for it}
+
 
 
 import speech_recognition as sr
@@ -161,4 +163,5 @@ if __name__ == "__main__":
     else:
         run_offline_mode()
     
+
     print("\nGoodbye!")
